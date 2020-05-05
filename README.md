@@ -27,7 +27,7 @@ To start a project, open a command prompt in the folder where the project is loc
 python Train.py --video video.avi
 ```
 # Result
-![alt tag](http://url/to/result.jpg)
+
 
 
 
