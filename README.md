@@ -1,11 +1,14 @@
+                                                 # Move Detection
 # Task description
  Task: motion tracking. The input is video. It is necessary to find the movement and to draw a rectangle around the area where the movement occurs. The video must be processed as in real time, you do not need to save the video. It is necessary that after starting the program, the video is reproduced with a rectangular area.
  
 # Package Installation
 
-In order to run the program, you must install Python.
+In order to run the program, you must install Python 3.5.6
 
 You can download and install python here https://www.python.org/downloads/
+
+Installation Instructions https://www.howtogeek.com/197947/how-to-install-python-on-windows/
 
 Requirements install:
 ```
