@@ -14,7 +14,4 @@
 
 
 
-parser = argparse.ArgumentParser()
-parser.add_argument("-f", type=argparse.FileType())
-args = parser.parse_args(["-f", "data.txt"])
 
