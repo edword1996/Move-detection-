@@ -1,12 +1,12 @@
-# Описание задачи
- Задача: отслеживание движения. На вход поступает видео. Необходимо найти движение и отоборазить прямоугольником область, где происходит движение. Видео должно обрабатываться как в реальном времени, сохранять видео не нужно. Нужно, чтобы после запуска программы, видео вопроизводилось с прямоугольной областью.
+# Task description
+ Task: motion tracking. The input is video. It is necessary to find the movement and to draw a rectangle around the area where the movement occurs. The video must be processed as in real time, you do not need to save the video. It is necessary that after starting the program, the video is reproduced with a rectangular area.
  
-# Приступая к работе
- - Для запуска проекта на локальном компьютере, необходимо склонировать ссылку https://github.com/edword1996/Move-detection-.git, зайти в панел VCS -> Checkout from Version Control -> Git -> Url. В панель  Url втавить ссылку. Или сделать команду git clone https://github.com/edword1996/Move-detection-.git
+# Package Installation
+In order to run the program, you must install Python
 
 
-# Установка
-- После загрузки проекта установите нужные библиотеки. Они находятся в файле requirements.txt. Поскольку вы склонировали проект, вы можете установить библиотека таким образом :
+
+
 - pip install -r requirements.txt
 
 # Заключение 
