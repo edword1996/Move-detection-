@@ -4,10 +4,9 @@
 # Package Installation
 
 In order to run the program, you must install Python.
-Python install:
-```
 
-```
+You can download and install python here https://www.python.org/downloads/
+
 Requirements install:
 ```
 pip install cycler==0.10.0
