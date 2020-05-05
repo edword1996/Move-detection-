@@ -1,12 +1,21 @@
 import cv2
 import numpy as np
+import argparse
 
-cap = cv2.VideoCapture(0)
+
+
+ap = argparse.ArgumentParser()
+ap.add_argument("-i", "--video", required = True, help = "Path to the image")
+args = vars(ap.parse_args())
+cap = cv2.VideoCapture(args["video"])
+
+
 
 ret, frame1 = cap.read()  # обьявение кадра
 ret, frame2 = cap.read()  # читаем 2 кадра из экземпляра
 
 print(frame1.shape)
+
 while cap.isOpened():
     diff = cv2.absdiff(frame1, frame2)  # использую переменную  diff что бы расставить точки как метод сравнения,
     # по этому находим абсолютную разницу, а точнее различие между двумя кадрами
