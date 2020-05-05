@@ -1,4 +1,4 @@
-                                                 # Move Detection
+# Move Detection
 # Task description
  Task: motion tracking. The input is video. It is necessary to find the movement and to draw a rectangle around the area where the movement occurs. The video must be processed as in real time, you do not need to save the video. It is necessary that after starting the program, the video is reproduced with a rectangular area.
  
