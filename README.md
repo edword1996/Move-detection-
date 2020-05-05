@@ -23,11 +23,11 @@ pip install six==1.14.0
 
 # Usage
 To start a project, open a command prompt in the folder where the project is located.
-
 ```
 python Train.py --video video.avi
 ```
-
+# Result
+![alt tag](http://url/to/result.jpg)
 
 
 
