@@ -33,8 +33,9 @@ To start a project, open a command prompt in the folder where the project is loc
 python Train.py --video video.avi
 ```
 # Result
-![result](https://user-images.githubusercontent.com/54912523/81107656-33dbf500-8f20-11ea-87c1-4d46eb390362.jpg)
 
-
+<p align="center"> 
+    <img src="https://user-images.githubusercontent.com/54912523/81107656-33dbf500-8f20-11ea-87c1-4d46eb390362.jpg" alt="alternate text">
+ </p>
 
 
