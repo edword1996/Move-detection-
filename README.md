@@ -25,7 +25,7 @@ pip install pyparsing==2.4.7
 pip install python-dateutil==2.8.1
 pip install six==1.14.0
 ```
-- pip install -r requirements.txt
+All the libraries above are installed using (```pip install -r requirements.txt```) the command line.
 
 # Usage
 To start a project, open a command prompt in the folder where the project is located.
